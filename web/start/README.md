@@ -1,2 +1,2 @@
 #### A simple login and signup page
-#### [Demo](https://isxyz.github.io/boring/web/start/index.html)
+#### [Demo](https://isxyz.github.io/Boring/web/start/index.html)
