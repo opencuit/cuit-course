@@ -11,3 +11,6 @@
 - [x] [数据库设计](https://github.com/ooyq/docs/blob/main/exam/database/databaseDesign/readme.md)
 
 - [x] [期中考试](https://github.com/ooyq/docs/blob/main/exam/database/midtermExam/readme.md)
+
+- [x] [习题与测试](https://github.com/ooyq/docs/blob/main/exam/database/midtermExam/exercises/)
+
