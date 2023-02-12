@@ -12,5 +12,5 @@
 
 - [x] [期中考试](https://github.com/ooyq/docs/blob/main/exam/database/midtermExam/readme.md)
 
-- [x] [习题与测试](https://github.com/ooyq/docs/blob/main/exam/database/midtermExam/exercises/)
+- [x] [习题与测试](https://github.com/ooyq/docs/blob/main/exam/database/midtermExam/exercises/readme.md)
 
