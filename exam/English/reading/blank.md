@@ -51,3 +51,16 @@
 |Over the two months I spent at the school I noticed a number of **```transformations```** in me. Firstly, I grew **```healthy```** as I woke early in the cool, clean mountain air, taught at school and then helped out on the local farms most afternoons. Secondly, I found that I really enjoyed teaching, as the children **```enthusiastically```** learnt what I tried **```with determination```** to teach. Thirdly, and most importantly, I discovered that I **```obtained```** great personal **```fulfilment```** from working in this small community. All my life I had **```concentrated```** on myself, my studies, my **```goal```** to get to university and doing what I wanted to do, not appreciating how lucky I was to have these educational opportunities; now, for the first time I was doing something for other people who really **```valued```** my help. Just making the effort to help other people less fortunate than oneself is all that is required and  it felt **```fantastic```** that I had learnt this life lesson in Zhangxian county.|
 |在这所学校的两个月里，我注意到自己发生了许多变化。首先，我在凉爽、干净的山间空气中早早起床，在学校教书，然后大部分下午在当地农场帮忙。其次，我发现我真的很喜欢教学，因为孩子们热情地学习我决心教的东西。第三，也是最重要的，我发现我从这个小社区的工作中获得了巨大的个人成就。我的一生都专注于我自己，我的学习，我上大学的目标，做我想做的事，没有意识到我是多么幸运能有这些教育机会;现在，我第一次为那些真正重视我的帮助的人做了一些事情。只要努力帮助比自己不幸的人，这就是我所需要的，我在张县学到这一人生课程，感觉很棒。|
 
+<hr>
+
+|Tourism|
+|:---|
+|In order to **```draw tourists```** , governments all over the world have been keen to advertise and **```endorse```** their region's special fetures. A Caribbean island is shown to be an untouched  tropical **```delight```** , while Thailand is maketed as an **```incredible```** place full of temples, culture and beautiful people forever smiling. This government promotion of the **```distinctive```** culture of its offering for the international traveller involves the **```creation```** of artifical "representations" of  what was **```formerly```** locally important. The "traditional dance" held on beached in Pacific islandresorts has **```almost```** nothing to do with **```real```** tribal activities. They are simply shows for tourists which are often performed  by people who are not even from  the local culture. This is a **```recreation```** of tradition.|
+|为了吸引游客，世界各国政府都热衷于宣传和认可他们地区的特色。一个加勒比岛屿被展示为一个未受破坏的热带胜地，而泰国则被宣传为一个充满寺庙、文化和永远微笑的美丽人民的令人难以置信的地方。政府为国际旅游者所提供的独特文化的推广涉及到对以前在当地重要的东西的人为“再现”。在太平洋岛屿度假胜地海滩上举行的“传统舞蹈”几乎与真正的部落活动无关。他们只是为游客表演，通常是由不来自当地文化的人表演的。这是对传统的再现。|
+
+<hr>
+
+|Fashion|
+|:---|
+|Is it **```expected```**, then, that most fashion victims are young? These are the **```exact```** people most vulnerable to a sense of inferiority and who feel the need to have their **```self-image```** boosted by others telling them they look **```trendy```**. It is the youth in every country that follow the fashions most **```carefully```** and who spend the most money on **```realizing```** just the right look.The middle-aged and elderly generations are no longer **```victims```** to fashion. They have **```settled on```** their **```appearance```** and they no longer care so much what other people think of how they dress(although they probably still **```mind```** what others think of them!).|
+|那么，大多数时尚受害者都是年轻人，这是意料之中的吗?这些人正是最容易产生自卑感的人，他们觉得有必要通过别人告诉他们他们看起来很时髦来提升自我形象。每个国家的年轻人都最认真地追逐时尚，也花最多的钱来打造恰到好处的造型。中老年人不再是时尚的受害者。他们已经决定了自己的外表，不再那么在乎别人对他们穿着的看法(尽管他们可能仍然在意别人对他们的看法!)。|
