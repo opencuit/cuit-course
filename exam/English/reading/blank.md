@@ -23,3 +23,17 @@
 |these **```customs```** are becoming less important|这些 **```习俗```** 正变得不那么重要|
 |and it is always a good **```subject```** of conversation with people you do not know too well|而且和你不太熟悉的人交谈，这总是一个很好的 **```话题```**|
 |Talking to Westerners about their star sign might also be  a good **```opener```** to start a conversation|与西方人谈论他们的星座可能也是一个很好的 **```开场白```**  开始谈话|
+
+<hr>
+
+| 原文 | 翻译  |
+| :--- | :--- |
+|Because people often **```stop```** work at 5.30 or 6 o'clock and then have to **```travel```** home from their jobs|因为人们经常在5点半或6点 **```停止工作```** ，然后不得不下班 **```回家```**|
+|By this time I am really **```ravenous```**!|这个时候我真的很 **```饿```** !|
+|At dinner British people like to **```taste```** many different kinds of food from different **```nations```**|在晚餐时，英国人喜欢品尝来自不同 **```国家```** 的不同种类的食物|
+|For example spaghetti bolognaise (from Italy)  or chicken curry (from India) are popular **```meals```**|例如意大利肉酱意面(意大利)或咖喱鸡(印度)都是很受欢迎的食物|
+|But **```really```** many people do have a traditional "meat and two vegs" meal or dinner|但是很多人确实会吃传统的“肉和两种蔬菜”的晚餐|
+|This is a piece of meat like pork or lamb (which smells really **```pungent```** but I must say it tastes good)|这是一块像猪肉或羊肉一样的肉(闻起来很 **```刺鼻```** ，但我必须说它味道很好)|
+|a  kind of sauce made from the **```liquid```** of the meat when it was cooking|酱汁一种由肉在烹调时的 **```液体```** 制成的酱汁|
+|Potato is the most **```common```** vegetable|土豆是最 **```常见的```** 蔬菜|
+
