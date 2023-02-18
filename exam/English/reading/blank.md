@@ -37,3 +37,9 @@
 |a  kind of sauce made from the **```liquid```** of the meat when it was cooking|酱汁一种由肉在烹调时的 **```液体```** 制成的酱汁|
 |Potato is the most **```common```** vegetable|土豆是最 **```常见的```** 蔬菜|
 
+<hr>
+
+| Home Truths | 
+| :--- |
+|Another **```aspect```** of British homeownership, which is **```confusing```** to many people from other cunntries, is the **```aspiration```** to "trade up". This is where people start by buying a  small **```home```** such as a flat or terraced house and then a few years later when they have got better jobs with more **```earnings```**, sell this and buy a larger place. They may do this a number of times over their **```lives```**. For example, in London a young couple may first buy an **```apartment```** in Clapham or Battersea, in a **```somewhat```** run-down part of town. Then they could trade up to buy a plat in fashionable Fulham or **```upmarket```** Chelsea; and then when they start **```raising```** a family they may move out to the countryside to a larger house with a garden for the children to play in.|
+|英国人拥有房产的另一个 **```方面```** 让许多来自其他国家的人 **```感到困惑```** ，那就是 **```渴望```** “升级换代”。在这种情况下，人们一开始会买一套小 **```房子```** ，比如公寓或联排别墅，几年后，当他们找到更好的工作， **```收入```** 更高时，就会卖掉房子，买一套更大的房子。他们 **```一生```** 中可能会多次这样做。例如，在伦敦，一对年轻夫妇可能会先在克拉彭或巴特西买一套 **```公寓```** ，这些地方在城镇的一个有点破旧的 **```地方```** 。然后，他们可以在时尚的富勒姆(Fulham)或 **```高档的```** 切尔西(Chelsea)购买一套公寓;当他们开始 **```组建```** 家庭时，他们可能会搬到农村，住在有花园的大房子里，让孩子们在里面玩耍。|
