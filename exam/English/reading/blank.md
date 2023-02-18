@@ -19,7 +19,7 @@
 |which is supposed to tell you what to do and how to behave on a **```daily```** basis|它应该告诉你 **```每天```** 该做什么，如何表现|
 |the Chinese horoscope is more concerned with **```telling```** your fate|中国的占星术更关心的是 **```告诉```** 你的命运|
 |Being born a horse, for example, **```establishes```** your character|例如，属马会  **```塑造```** 你的性格|
-|but then it is up to you to **```exploit```** the positive **```qualities```** if its **```harmful```** features|但是，如果它有一些 **```有害的```** 特点，那就 **```取决于```** 你去发掘它的积极 **```品质```** 了|
+|but then it is up to you to **```exploit```** the positive **```qualities```** if its **```harmful```** features|但是，如果它有一些 **```有害的```** 特点，那就取决于你去 **```发掘```** 它的积极 **```品质```** 了|
 |these **```customs```** are becoming less important|这些 **```习俗```** 正变得不那么重要|
 |and it is always a good **```subject```** of conversation with people you do not know too well|而且和你不太熟悉的人交谈，这总是一个很好的 **```话题```**|
 |Talking to Westerners about their star sign might also be  a good **```opener```** to start a conversation|与西方人谈论他们的星座可能也是一个很好的 **```开场白```**  开始谈话|

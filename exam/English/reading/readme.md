@@ -5,4 +5,5 @@
 | [深度阅读](https://github.com/ooyq/docs/blob/main/exam/English/reading/deep.md) | 2 篇课外  |
 | [选词填空](https://github.com/ooyq/docs/blob/main/exam/English/reading/blank.md) | 1 篇课内  |
 | [英译汉](https://github.com/ooyq/docs/blob/main/exam/English/reading/translation.md) | 1 段或 2 段，阅读教程所学单元   |
+| [课文翻译](https://github.com/ooyq/docs/blob/main/exam/English/reading/translation.docx) | 跨文化英语阅读课文中文翻译 |
 | [作文](https://github.com/ooyq/docs/blob/main/exam/English/reading/essay.md) | 跟所学单元主题相关 |
