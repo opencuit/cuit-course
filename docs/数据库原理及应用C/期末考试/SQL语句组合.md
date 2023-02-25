@@ -5,8 +5,8 @@
 **【答案】**
 ```
 select 姓名,性别,民族  
-  where 党员否=是
   from xsda   
+  where 党员否=True
   order by 民族
 ```
 
@@ -26,9 +26,9 @@ select 姓名,性别,民族
 **【答案】**
 ```
 select 职工.部门号,部门名,姓名,性别,出生日期,学历
-  where 出生日期>=#1970-01-01#       
-    from 职工,部门   
-where 职工.部门号=部门.部门号
+  from 职工 inner join 部门
+    on 职工.部门号=部门.部门号
+    where 出生日期>=#1970-01-01#       
 ```
 
 
