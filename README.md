@@ -53,7 +53,7 @@ Issue、PR、纠错、资料、选课/考试攻略，欢迎贡献！
 
 <div align=center>
   
-![image](https://github.com/ooyq/cuit-course/assets/120553430/5d1c0961-5e15-41f3-b56d-167e2ad661aa)
+![image](https://github.com/ooyq/cuit-course/assets/120553430/5c727622-3719-4b59-9d12-af403a17c67c)
   
 </div>
   
