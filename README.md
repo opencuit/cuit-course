@@ -1,18 +1,25 @@
-<div align=center>
-  
-![image](https://github.com/ooyq/cuit-course/assets/120553430/333e8a85-fec1-458b-97f1-d07cb07ab7ea)
-  
-  # 成都信息工程大学课程资料共享计划
-
-[![Stars](https://img.shields.io/github/stars/ooyq/cuit-course.svg)](https://github.com/ooyq/cuit-course/stargazers)
-[![Forks](https://img.shields.io/github/forks/ooyq/cuit-course.svg)](https://github.com/ooyq/cuit-course/network/members)
-![GitHub repo size](https://img.shields.io/github/repo-size/ooyq/cuit-course.svg)
-[![Issues](https://img.shields.io/github/issues/ooyq/cuit-course.svg)]()
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ooyq/cuit-course.svg)
-  
+<div align="center">
+  <img src="https://github.com/ooyq/cuit-course/assets/120553430/333e8a85-fec1-458b-97f1-d07cb07ab7ea" alt="image">
 </div>
+
+<h1 align="center">成都信息工程大学课程资料共享计划</h1>
+
+<p align="center">
+  <a href="https://github.com/ooyq/cuit-course/stargazers">
+    <img src="https://img.shields.io/github/stars/ooyq/cuit-course.svg" alt="Stars">
+  </a>
+  <a href="https://github.com/ooyq/cuit-course/network/members">
+    <img src="https://img.shields.io/github/forks/ooyq/cuit-course.svg" alt="Forks">
+  </a>
+  <img src="https://img.shields.io/github/repo-size/ooyq/cuit-course.svg" alt="GitHub repo size">
+  <a href="https://github.com/ooyq/cuit-course/issues">
+    <img src="https://img.shields.io/github/issues/ooyq/cuit-course.svg" alt="Issues">
+  </a>
+  <img src="https://img.shields.io/github/issues-pr/ooyq/cuit-course.svg" alt="GitHub pull requests">
+</p>
+
   
- ## 前言
+## 前言
  <p>
 来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。
 
@@ -29,6 +36,8 @@
 
 > 引用自[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 
+<br>
+
 ## 说明
 大部分资料来自于同学和老师的分享，以及同学自主整理的资料，包括：
 
@@ -38,20 +47,30 @@
 
 [课程中心助手](https://github.com/ooyq/cuit-helper)
 
+<br>
+
 ## 下载指南
   若要下载单个文件夹，复制文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
+
+<br>
   
 ## 如何贡献
 Issue、PR、纠错、资料、选课/考试攻略，欢迎贡献！
 
+<br>
+
 ## 联系方式
-<a target="_blank" href="mailto:oooooyq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="mailto:cuit@email.com"><img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=email&logoColor=white"></img></a>
+
+[点击加入群聊](https://qm.qq.com/cgi-bin/qm/qr?k=ZAyQ5mcGB5IcHS1nPMmzts02iCAm4_em&authKey=yNxBWMDar2VYv9wuL3U5JPUQBZHlmg+o9e5R7F/dZtAvAHQAinXOj7ppiLk1bMhL&noverify=0)
+
+<a target="_blank" href="mailto:cuit@email.com"><img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=email&logoColor=white"></a>
+
+<br>
 
 ## 版权声明
-版权归属于其各自作者
+版权归属文件资料各自作者
 
-<div align=center>
+<div align="center">
   
 ![image](https://github.com/ooyq/cuit-course/assets/120553430/5c727622-3719-4b59-9d12-af403a17c67c)
   
