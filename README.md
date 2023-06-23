@@ -68,11 +68,8 @@ Issue、PR、纠错、资料、选课/考试攻略，欢迎贡献！
 <br>
 
 ## 版权声明
-版权归属文件资料各自作者
+该仓库内所有文件资料版权归属其各自作者，未经许可禁止商用
 
 <div align="center">
-  
-![image](https://github.com/ooyq/cuit-course/assets/120553430/5c727622-3719-4b59-9d12-af403a17c67c)
-  
+  <img src="https://github.com/ooyq/cuit-course/assets/120553430/5c727622-3719-4b59-9d12-af403a17c67c" alt="image">
 </div>
-  
