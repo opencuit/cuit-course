@@ -18,8 +18,9 @@
   <img src="https://img.shields.io/github/issues-pr/ooyq/cuit-course.svg" alt="GitHub pull requests">
 </p>
 
-  
 ## 前言
+**[资料云盘](https://dav.yiandrive.com/s/xByvIL) (仓库随缘更新，资料都会上传到该云盘，直接在该云盘查看下载即可)**
+
  <p>
 来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。
 
@@ -61,7 +62,9 @@ Issue、PR、纠错、资料、选课/考试攻略，欢迎贡献！
 
 ## 联系方式
 
-[点击加入群聊](https://qm.qq.com/cgi-bin/qm/qr?k=ZAyQ5mcGB5IcHS1nPMmzts02iCAm4_em&authKey=yNxBWMDar2VYv9wuL3U5JPUQBZHlmg+o9e5R7F/dZtAvAHQAinXOj7ppiLk1bMhL&noverify=0)
+[点击加入群聊【杏仁生存交流群】(已满)](https://qm.qq.com/cgi-bin/qm/qr?k=ZAyQ5mcGB5IcHS1nPMmzts02iCAm4_em&authKey=yNxBWMDar2VYv9wuL3U5JPUQBZHlmg+o9e5R7F/dZtAvAHQAinXOj7ppiLk1bMhL&noverify=0)
+
+[点击加入群聊【杏仁生存交流②群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=kLSQuoq85vk4Y0GdjoGpxWwmA-9M5GeK&authKey=Cyu96ZbfR8V6i%2B50HC8o8ti%2ByaESHMfpAkehj%2BWODLepUfZuFudBNADr3K9ucM4B&noverify=0&group_code=427302480)
 
 <a target="_blank" href="mailto:cuit@email.com"><img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=email&logoColor=white"></a>
 
